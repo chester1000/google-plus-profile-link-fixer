@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "G+ Profile Link Fix",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Replaces your name with a link to your Google+ profile",
+    "description": "The description of the application"
+  }
+}
